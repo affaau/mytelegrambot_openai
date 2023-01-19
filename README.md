@@ -1,5 +1,5 @@
 # mytelegrambot_openai
-A testing program to create a telegram bot which returns sent question to &amp; display answer from OpenAI ChatGPT
+A testing program to create a telegram bot which sends question to &amp; display answer from OpenAI ChatGPT
 
 From Internet, learn how to generate your own API keys for both telegram bot and openAI.
 And you need to firstly create a telegram bot too. Easily found the knnow how from Internet.
