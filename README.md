@@ -5,8 +5,8 @@ From Internet, learn how to generate your own API keys for both telegram bot and
 And you need to firstly create a telegram bot too. Easily found the knnow how from Internet.
 
 This code is running by Python 3.9. Please install following libraries:<br>
-Install python-telegram-bot v20.0<br>
-Install openai
+- python-telegram-bot v20.0<br>
+- openai
 
 Modify my code with your personall KEY.
 
